@@ -1,3 +1,17 @@
+## Skills
+
+<div>
+    <div>
+        <a href="https://cppreference.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="50" height="50" alt="cpp" /></a>
+        <a href="https://www.c-language.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="50" height="50" alt="c" /></a>
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50" height="50" alt="python" /></a>
+        <a href="https://www.perl.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Perl.svg" width="50" height="50" alt="perl" /></a>
+        <a href="https://www.php.net/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="50" height="50" alt="php" /></a>
+        <a href="https://rust.facepunch.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width="50" height="50" alt="rustxd" /></a>
+        <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg" width="50" height="50" alt="ruby" /></a>
+    </div>
+
+
 <a href="https://github.com/KRISgardian" style="width: 50%">
     <img 
         style="width: 50%" 
