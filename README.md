@@ -13,6 +13,12 @@
         <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg" width="50" height="50" alt="ruby" /></a>
         <a href="https://www.java.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50" height="50" alt="java" /></a>
     </div>
+    <div>
+        <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cassandra-Dark.svg" width="50" height="50" alt="cassandra" /></a>
+        <a href="https://redis.io/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="50" height="50" alt="redis" /></a>
+        <a href="https://sqlite.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="50" height="50" alt="sqlite" /></a>
+        <a href="https://www.scylladb.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://www.scylladb.com/wp-content/uploads/hero-monster-2.png" width="50" height="50" alt="scylla" /></a>
+    </div>
 
 ## 
 
