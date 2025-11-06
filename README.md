@@ -29,6 +29,18 @@
         <a href="https://github.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="50" height="50" alt="GitHub" /></a>
         <a href="https://gitlab.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="50" height="50" alt="GitLab" /></a>
         <a href="https://forgejo.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://avatars.githubusercontent.com/u/118922216?s=200&v=4" width="50" height="50" alt="forgejo" /></a>
+        <a href="http://ghidra.net/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-1LnY9w9sZxBbi-dno8nZTnYA0YnNjqqEYQ&s" width="50" height="50" alt="ghidra" /></a>
+        <a href="https://x64dbg.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQruu1n2RK8pp8XMSOmv_4IpIEMGydDUa3Fnw&s" width="50" height="50" alt="x64dbg" /></a>
+    </div>
+    <div>
+        <a href="https://www.vulkan.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7hsGT4DcLK6YnQCWB6duH1hPafXKhoKJaZg&s" width="50" height="50" alt="vulcan" /></a>
+        <a href="https://www.opengl.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://e7.pngegg.com/pngimages/28/187/png-clipart-opengl-es-khronos-group-webgl-opengl-shading-language-others-blue-3d-computer-graphics-thumbnail.png" width="50" height="50" alt="opengl" /></a>
+        <a href="https://learn.microsoft.com/en-us/windows/win32/direct3d11/atoc-dx-graphics-direct3d-11" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://icon2.cleanpng.com/20180711/as/aawmbp0qn.webp" width="50" height="50" alt="directx11" /></a>
+        <a href="https://blogs.windows.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" width="50" height="50" alt="windows" /></a>
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="50" height="50" alt="vscode" /></a>
+        <a href="https://ubuntu.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" width="50" height="50" alt="ubuntu" /></a>
+        <a href="https://www.debian.org/index.ru.html" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Debian-Dark.svg" width="50" height="50" alt="debian" /></a>
+        <a href="https://www.kali.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" width="50" height="50" alt="kali" /></a>
     </div>
 </div>
 
