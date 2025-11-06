@@ -46,7 +46,9 @@
 
 ## LeetCode
 
-<img src="https://leetcard.jacoblin.cool/JacobLinCool" alt="LeetCode Statistics" align="center"/>
+<div align="center">
+    <img src="https://leetcard.jacoblin.cool/JacobLinCool" alt="LeetCode Statistics"/>
+</div>
 
 
 
