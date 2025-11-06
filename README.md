@@ -45,6 +45,7 @@
 </div>
 
 ## 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={your-leetcode-username}&animated=true" alt="LeetCode Badges" />
 
 <a href="https://github.com/KRISgardian" style="width: 50%">
     <img 
