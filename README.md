@@ -8,11 +8,10 @@
         <a href="https://www.perl.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Perl.svg" width="50" height="50" alt="perl" /></a>
         <a href="https://www.php.net/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="50" height="50" alt="php" /></a>
         <a href="https://rust.facepunch.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" width="50" height="50" alt="rustxd" /></a>
-        <a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" width="50" height="50" alt="sl" />
-        <a href="https://github.com/PowerShell/PowerShell" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" width="50" height="50" alt="powershell"/></a>
         <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg" width="50" height="50" alt="ruby" /></a>
+        <a href="https://github.com/PowerShell/PowerShell" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" width="50" height="50" alt="powershell" /></a>
         <a href="https://www.java.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50" height="50" alt="java" /></a>
-        </a>
+        <a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" width="50" height="50" alt="sl" /></a>
     </div>
 
 ## 
