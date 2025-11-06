@@ -11,7 +11,6 @@
         <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg" width="50" height="50" alt="ruby" /></a>
         <a href="https://github.com/PowerShell/PowerShell" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" width="50" height="50" alt="powershell" /></a>
         <a href="https://www.java.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50" height="50" alt="java" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50" height="50" alt="js" /></a>
         <a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" width="50" height="50" alt="sl" /></a>
     </div>
 
