@@ -44,9 +44,11 @@
     </div>
 </div>
 
-##
+## LeetCode
 
 <img src="https://leetcard.jacoblin.cool/JacobLinCool" alt="LeetCode Statistics">
+
+
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Krisgg&animated=true" alt="LeetCode Badges" />
 
