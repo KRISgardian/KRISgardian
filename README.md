@@ -47,25 +47,28 @@
 ## LeetCode
 
 <div align="center">
-    <img src="https://leetcard.jacoblin.cool/JacobLinCool" alt="LeetCode Statistics"/>
+    <img src="https://leetcard.jacoblin.cool/Krisgg" alt="LeetCode Statistics"/>
 </div>
 
-
-
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=Krisgg&animated=true" alt="LeetCode Badges" align="center"/>
+<div align="center">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Krisgg&animated=true" alt="LeetCode Badges"/>
+</div>
 
 ##
 
-<a href="https://github.com/KRISgardian" style="width: 50%" align="center">
+<div align="center">
+    <a href="https://github.com/KRISgardian" style="width: 50%" align="center">
     <img 
         style="width: 50%" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISgardian&layout=compact&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=242938&hide_border=true&locale=en&custom_title=Top%20Languages" 
-        alt="Top Languages" 
-    />
+        alt="Top Languages"/>
 </a>
+</div>
 
 ## GitHub Stats
 
-<a href="https://github.com/KRISgardian" align="center">
+<div align="center">
+    <a href="https://github.com/KRISgardian" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=KRISgardian&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </a>
+</div>
