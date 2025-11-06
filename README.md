@@ -12,6 +12,7 @@
         <a href="https://github.com/PowerShell/PowerShell" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" width="50" height="50" alt="powershell" /></a>
         <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg" width="50" height="50" alt="ruby" /></a>
         <a href="https://www.java.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50" height="50" alt="java" /></a>
+        <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Fortran.svg" width="50" height="50" alt="fortran" /></a>
     </div>
     <div>
         <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cassandra-Dark.svg" width="50" height="50" alt="cassandra" /></a>
@@ -21,6 +22,16 @@
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50" height="50" alt="mysql" /></a>
         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="50" height="50" alt="postgress" /></a>
     </div>
+    <div>
+        <a href="https://cmake.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CMake-Dark.svg" width="50" height="50" alt="cmake" /></a>
+        <a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://interrupt.memfault.com/img/gnu-make-guidelines/gnu-make.png" width="50" height="50" alt="make" /></a>
+        <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Dark.svg" width="50" height="50" alt="matlab" /></a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50" height="50" alt="Git" /></a>
+        <a href="https://github.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="50" height="50" alt="GitHub" /></a>
+        <a href="https://gitlab.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="50" height="50" alt="GitLab" /></a>
+        <a href="https://forgejo.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://avatars.githubusercontent.com/u/118922216?s=200&v=4" width="50" height="50" alt="forgejo" /></a>
+    </div>
+</div>
 
 ## 
 
