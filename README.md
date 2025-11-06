@@ -58,7 +58,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KRISgardian&theme=onedark)](https://github.com/ryo-ma/github-profile-KRISgardian)
 
-##
+## Languages
 
 <div align="center">
     <a href="https://github.com/KRISgardian" style="width: 50%" align="center">
