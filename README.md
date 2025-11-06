@@ -24,7 +24,6 @@
     </div>
     <div>
         <a href="https://cmake.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CMake-Dark.svg" width="50" height="50" alt="cmake" /></a>
-        <a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://interrupt.memfault.com/img/gnu-make-guidelines/gnu-make.png" width="50" height="50" alt="make" /></a>
         <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Dark.svg" width="50" height="50" alt="matlab" /></a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50" height="50" alt="Git" /></a>
         <a href="https://github.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="50" height="50" alt="GitHub" /></a>
