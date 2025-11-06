@@ -56,7 +56,7 @@
 
 ## Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KRISgardian&theme=onedark)](https://github.com/ryo-ma/github-profile-KRISgardian)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KRISgardian&theme=monokai)](https://github.com/ryo-ma/github-profile-KRISgardian)
 
 ## Languages
 
