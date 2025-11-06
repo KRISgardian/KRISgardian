@@ -54,6 +54,10 @@
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=Krisgg&animated=true" alt="LeetCode Badges"/>
 </div>
 
+## Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KRISgardian&theme=onedark)](https://github.com/ryo-ma/github-profile-KRISgardian)
+
 ##
 
 <div align="center">
