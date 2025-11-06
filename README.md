@@ -18,6 +18,8 @@
         <a href="https://redis.io/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="50" height="50" alt="redis" /></a>
         <a href="https://sqlite.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="50" height="50" alt="sqlite" /></a>
         <a href="https://www.scylladb.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://www.scylladb.com/wp-content/uploads/hero-monster-2.png" width="50" height="50" alt="scylla" /></a>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50" height="50" alt="mysql" /></a>
+        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="50" height="50" alt="postgress" /></a>
     </div>
 
 ## 
